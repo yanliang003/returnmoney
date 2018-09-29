@@ -1,0 +1,1309 @@
+---------------------------------------------------------------
+[ 2018-09-16T02:28:53+08:00 ] 127.0.0.1 GET /
+[ info ] qiandao.com/ [运行时间：0.114039s][吞吐率：8.77req/s] [内存消耗：2,059.32kb] [文件加载：50]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[D:\wwwroot\qiandao.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-09-16T02:29:16+08:00 ] 127.0.0.1 GET /
+[ info ] qiandao.com/ [运行时间：0.086878s][吞吐率：11.51req/s] [内存消耗：2,059.33kb] [文件加载：50]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'dolphin'@'localhost' (using password: YES)[D:\wwwroot\qiandao.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-09-16T02:29:18+08:00 ] 127.0.0.1 GET /
+[ info ] qiandao.com/ [运行时间：0.088423s][吞吐率：11.31req/s] [内存消耗：2,059.33kb] [文件加载：50]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'dolphin'@'localhost' (using password: YES)[D:\wwwroot\qiandao.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-09-16T02:29:18+08:00 ] 127.0.0.1 GET /
+[ info ] qiandao.com/ [运行时间：0.106185s][吞吐率：9.42req/s] [内存消耗：2,059.33kb] [文件加载：50]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'dolphin'@'localhost' (using password: YES)[D:\wwwroot\qiandao.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-09-16T02:30:14+08:00 ] 127.0.0.1 GET /
+[ info ] qiandao.com/ [运行时间：0.108209s][吞吐率：9.24req/s] [内存消耗：2,059.33kb] [文件加载：50]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'dolphin'@'localhost' (using password: YES)[D:\wwwroot\qiandao.com\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:20+08:00 ] 127.0.0.1 GET /
+[ info ] qiandao.com/ [运行时间：0.597216s][吞吐率：1.67req/s] [内存消耗：2,441.34kb] [文件加载：62]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.277935s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.197874s ]
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wwwroot\qiandao.com\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.015413s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.163307s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.001855s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.054890s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.008368s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.049095s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.005206s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.052376s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.001039s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.050314s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.001980s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:33+08:00 ] 127.0.0.1 GET /admin.php
+[ info ] qiandao.com/admin.php [运行时间：0.038025s][吞吐率：26.30req/s] [内存消耗：1,114.49kb] [文件加载：33]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-16T02:31:34+08:00 ] 127.0.0.1 GET /admin.php/admin
+[ info ] qiandao.com/admin.php/admin [运行时间：0.339414s][吞吐率：2.95req/s] [内存消耗：2,585.27kb] [文件加载：64]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.097946s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.110396s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004871s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.032726s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.000935s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.033537s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000802s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.034957s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000710s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.032780s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000638s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.032438s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000701s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:34+08:00 ] 127.0.0.1 GET /admin.php/user/publics/signin.html
+[ info ] qiandao.com/admin.php/user/publics/signin.html [运行时间：0.341419s][吞吐率：2.93req/s] [内存消耗：2,656.99kb] [文件加载：64]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'publics',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.112324s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.116978s ]
+[ info ] [ RUN ] app\user\admin\Publics->signin[ D:\wwwroot\qiandao.com\application\user\admin\Publics.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\public/../application/user/view/admin/publics\signin.html [ array (
+  0 => '_admin_base_layout',
+  1 => 'system_color',
+  2 => '_pop',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017113s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.031922s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.000752s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.035863s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.034932s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000725s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.036088s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000750s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.035469s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000799s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:40+08:00 ] 127.0.0.1 POST /admin.php/user/publics/signin.html
+[ info ] qiandao.com/admin.php/user/publics/signin.html [运行时间：0.513420s][吞吐率：1.95req/s] [内存消耗：2,486.13kb] [文件加载：63]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'publics',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'content-length' => '35',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://qiandao.com/admin.php/user/publics/signin.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'yanliang',
+  'password' => 'yanliang',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.215751s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.134408s ]
+[ info ] [ RUN ] app\user\admin\Publics->signin[ D:\wwwroot\qiandao.com\application\user\admin\Publics.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005584s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.123008s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.001354s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.043269s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000781s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.044180s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000767s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.040430s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000638s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.038656s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000875s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_user` [ RunTime:0.048849s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_user` WHERE  `username` = 'yanliang'  AND `status` = 1 LIMIT 1 [ RunTime:0.001399s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:46+08:00 ] 127.0.0.1 POST /admin.php/user/publics/signin.html
+[ info ] qiandao.com/admin.php/user/publics/signin.html [运行时间：0.739580s][吞吐率：1.35req/s] [内存消耗：2,587.33kb] [文件加载：68]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'publics',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'content-length' => '29',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://qiandao.com/admin.php/user/publics/signin.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'admin',
+  'password' => 'admin',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.135243s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.149338s ]
+[ info ] [ RUN ] app\user\admin\Publics->signin[ D:\wwwroot\qiandao.com\application\user\admin\Publics.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002094s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.042136s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.001491s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.050797s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000930s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.046362s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000926s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.046025s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000922s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.045061s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000987s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_user` [ RunTime:0.048587s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_user` WHERE  `username` = 'admin'  AND `status` = 1 LIMIT 1 [ RunTime:0.001545s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.069423s ]
+[ sql ] [ SQL ] SELECT `access` FROM `dp_admin_role` WHERE  `id` = 1  AND `status` = 1 LIMIT 1 [ RunTime:0.002309s ]
+[ sql ] [ SQL ] UPDATE `dp_admin_user`  SET `last_login_time`=1537036305,`update_time`=1537036305  WHERE  `id` = 1 [ RunTime:0.001423s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001027s ]
+[ sql ] [ SQL ] SELECT `name` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000943s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_action` [ RunTime:0.068056s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_action` WHERE  `module` = 'user'  AND `name` = 'user_signin' LIMIT 1 [ RunTime:0.007776s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:50+08:00 ] 127.0.0.1 GET /admin.php/admin/index/index.html
+[ info ] qiandao.com/admin.php/admin/index/index.html [运行时间：2.714871s][吞吐率：0.37req/s] [内存消耗：3,062.34kb] [文件加载：80]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'referer' => 'http://qiandao.com/admin.php/user/publics/signin.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.112758s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.150467s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\wwwroot\qiandao.com\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\public/../application/admin\view\index\index.html [ array (
+  0 => '_admin_base_layout',
+  1 => 'system_color',
+  2 => '_pop',
+  3 => '_top_menus',
+  4 => '_top_menus_all',
+  5 => '_sidebar_menus',
+  6 => '_location',
+  7 => '_message',
+  8 => '_icons',
+  9 => 'aside',
+  10 => 'default_pass',
+) ]
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\plugins/SystemInfo/view/widget.html [ array (
+  0 => 'display',
+  1 => 'width',
+) ]
+[ info ] [ BEHAVIOR ] Run plugins\SystemInfo\SystemInfo @admin_index [ RunTime:0.027173s ]
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\plugins/DevTeam/view/widget.html [ array (
+  0 => 'display',
+  1 => 'width',
+) ]
+[ info ] [ BEHAVIOR ] Run plugins\DevTeam\DevTeam @admin_index [ RunTime:0.011393s ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002530s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.037026s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.000935s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.046202s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000850s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.045699s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000945s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.048663s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000847s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.044603s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000862s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.044525s ]
+[ sql ] [ SQL ] SELECT `menu_auth` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001019s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_menu` [ RunTime:0.052257s ]
+[ sql ] [ SQL ] SELECT `id`,`url_value` FROM `dp_admin_menu` WHERE  `id` = 0 [ RunTime:0.001242s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` LIMIT 10 [ RunTime:0.046546s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` [ RunTime:0.001264s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'admin/index/index' LIMIT 1 [ RunTime:0.000855s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.001602s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1 ORDER BY `sort`,`id` [ RunTime:0.003852s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'admin/index/index' LIMIT 1 [ RunTime:0.000963s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000680s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_message` [ RunTime:0.050680s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `dp_admin_message` WHERE  `status` = 0  AND `uid_receive` = 1 LIMIT 1 [ RunTime:0.013265s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_icon` [ RunTime:0.065833s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_icon` WHERE  `status` = 1 [ RunTime:0.001200s ]
+[ sql ] [ SQL ] SELECT `value` FROM `dp_admin_config` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000778s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_user` [ RunTime:0.037487s ]
+[ sql ] [ SQL ] SELECT `password` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000887s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001038s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_attachment` [ RunTime:0.059705s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000955s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000562s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000563s ]
+[ sql ] [ SQL ] SELECT `config` FROM `dp_admin_plugin` WHERE  `name` = 'SystemInfo' LIMIT 1 [ RunTime:0.001110s ]
+[ sql ] [ SQL ] select version() as version [ RunTime:0.000774s ]
+[ sql ] [ SQL ] SELECT `config` FROM `dp_admin_plugin` WHERE  `name` = 'DevTeam' LIMIT 1 [ RunTime:0.000895s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:51+08:00 ] 127.0.0.1 GET /admin.php/admin/index/checkupdate.html
+[ info ] qiandao.com/admin.php/admin/index/checkupdate.html [运行时间：0.565193s][吞吐率：1.77req/s] [内存消耗：2,582.05kb] [文件加载：63]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'checkupdate',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'x-requested-with' => 'XMLHttpRequest',
+  'referer' => 'http://qiandao.com/admin.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.145492s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.131731s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\admin\controller\Index->checkUpdate[ D:\wwwroot\qiandao.com\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003230s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.064169s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.000918s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.045850s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000778s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.041038s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000816s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.038475s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000694s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.041807s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.001085s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.041164s ]
+[ sql ] [ SQL ] SELECT `menu_auth` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000967s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_menu` [ RunTime:0.045908s ]
+[ sql ] [ SQL ] SELECT `id`,`url_value` FROM `dp_admin_menu` WHERE  `id` = 0 [ RunTime:0.000741s ]
+[ sql ] [ SQL ] select version() as version [ RunTime:0.000925s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:53+08:00 ] 127.0.0.1 POST /admin.php/admin/ajax/getsidebarmenu.html
+[ info ] qiandao.com/admin.php/admin/ajax/getsidebarmenu.html [运行时间：0.469760s][吞吐率：2.13req/s] [内存消耗：2,658.73kb] [文件加载：64]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'getsidebarmenu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'content-length' => '44',
+  'x-requested-with' => 'XMLHttpRequest',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'referer' => 'http://qiandao.com/admin.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+  'module_id' => '292',
+  'module' => 'signin',
+  'controller' => 'index',
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.106527s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.120926s ]
+[ info ] [ RUN ] app\admin\controller\Ajax->getSidebarMenu[ D:\wwwroot\qiandao.com\application\admin\controller\Ajax.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005124s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.037688s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.000755s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.039562s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000782s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.037285s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000650s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.037465s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000861s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.035348s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.001172s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.094558s ]
+[ sql ] [ SQL ] SELECT `menu_auth` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000626s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_menu` [ RunTime:0.036096s ]
+[ sql ] [ SQL ] SELECT `id`,`url_value` FROM `dp_admin_menu` WHERE  `id` = 0 [ RunTime:0.000661s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000824s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1 ORDER BY `sort`,`id` [ RunTime:0.001097s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:54+08:00 ] 127.0.0.1 GET /admin.php/signin/user/index.html
+[ info ] qiandao.com/admin.php/signin/user/index.html [运行时间：0.865074s][吞吐率：1.16req/s] [内存消耗：3,872.20kb] [文件加载：79]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'signin',
+    1 => 'user',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'referer' => 'http://qiandao.com/admin.php/admin/index/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.107660s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.132632s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\signin\admin\User->index[ D:\wwwroot\qiandao.com\application\signin\admin\User.php ]
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\public/../application/common/builder/table/layout.html [ array (
+  0 => '_admin_base_layout',
+  1 => 'system_color',
+  2 => '_pop',
+  3 => '_top_menus',
+  4 => '_top_menus_all',
+  5 => '_sidebar_menus',
+  6 => '_location',
+  7 => '_message',
+  8 => '_icons',
+  9 => 'aside',
+  10 => 'page_title',
+  11 => 'page_tips',
+  12 => 'tips_type',
+  13 => 'tab_nav',
+  14 => 'hide_checkbox',
+  15 => 'extra_html',
+  16 => 'extra_js',
+  17 => 'extra_css',
+  18 => 'order_columns',
+  19 => 'filter_columns',
+  20 => 'filter_map',
+  21 => '_field_display',
+  22 => '_filter_content',
+  23 => '_filter',
+  24 => 'top_buttons',
+  25 => 'right_buttons',
+  26 => 'search',
+  27 => 'search_button',
+  28 => 'columns',
+  29 => 'pages',
+  30 => 'row_list',
+  31 => '_page_info',
+  32 => 'primary_key',
+  33 => '_table',
+  34 => 'js_list',
+  35 => 'css_list',
+  36 => 'validate',
+  37 => '_js_files',
+  38 => '_css_files',
+  39 => '_select_list',
+  40 => '_filter_time',
+  41 => 'empty_tips',
+  42 => '_search_area',
+  43 => '_search_area_url',
+  44 => '_search_area_op',
+  45 => 'builder_height',
+  46 => 'fixed_right_column',
+  47 => 'fixed_left_column',
+  48 => 'column_width',
+  49 => 'column_hide',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007224s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.036219s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.000931s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.038506s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000635s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.037579s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000924s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.040047s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.001396s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.043359s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000823s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.038005s ]
+[ sql ] [ SQL ] SELECT `menu_auth` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000661s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_menu` [ RunTime:0.038154s ]
+[ sql ] [ SQL ] SELECT `id`,`url_value` FROM `dp_admin_menu` WHERE  `id` = 0 [ RunTime:0.000934s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` LIMIT 10 [ RunTime:0.000771s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` [ RunTime:0.000771s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/user/index' LIMIT 1 [ RunTime:0.001104s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000812s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1 ORDER BY `sort`,`id` [ RunTime:0.000849s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/user/index' LIMIT 1 [ RunTime:0.000826s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_message` [ RunTime:0.040037s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `dp_admin_message` WHERE  `status` = 0  AND `uid_receive` = 1 LIMIT 1 [ RunTime:0.000694s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_icon` [ RunTime:0.040159s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_icon` WHERE  `status` = 1 [ RunTime:0.000782s ]
+[ sql ] [ SQL ] SELECT `value` FROM `dp_admin_config` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000560s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003016s ] mysql:host=127.0.0.1;port=3306;dbname=hejia_qiandao;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_user` [ RunTime:0.071531s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `cms_user` LIMIT 1 [ RunTime:0.000759s ]
+[ sql ] [ SQL ] SELECT * FROM `cms_user` ORDER BY `create_time` DESC LIMIT 0,20 [ RunTime:0.031975s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/user/index' LIMIT 1 [ RunTime:0.001122s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000691s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_user` [ RunTime:0.037403s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001640s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_attachment` [ RunTime:0.038702s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000816s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000622s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000607s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:31:58+08:00 ] 127.0.0.1 GET /admin.php/signin/ticket/index.html
+[ info ] qiandao.com/admin.php/signin/ticket/index.html [运行时间：0.822174s][吞吐率：1.22req/s] [内存消耗：3,503.54kb] [文件加载：77]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'signin',
+    1 => 'ticket',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'referer' => 'http://qiandao.com/admin.php/signin/user/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.109188s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.128726s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\signin\admin\Ticket->index[ D:\wwwroot\qiandao.com\application\signin\admin\Ticket.php ]
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\public/../application/common/builder/table/layout.html [ array (
+  0 => '_admin_base_layout',
+  1 => 'system_color',
+  2 => '_pop',
+  3 => '_top_menus',
+  4 => '_top_menus_all',
+  5 => '_sidebar_menus',
+  6 => '_location',
+  7 => '_message',
+  8 => '_icons',
+  9 => 'aside',
+  10 => 'page_title',
+  11 => 'page_tips',
+  12 => 'tips_type',
+  13 => 'tab_nav',
+  14 => 'hide_checkbox',
+  15 => 'extra_html',
+  16 => 'extra_js',
+  17 => 'extra_css',
+  18 => 'order_columns',
+  19 => 'filter_columns',
+  20 => 'filter_map',
+  21 => '_field_display',
+  22 => '_filter_content',
+  23 => '_filter',
+  24 => 'top_buttons',
+  25 => 'right_buttons',
+  26 => 'search',
+  27 => 'search_button',
+  28 => 'columns',
+  29 => 'pages',
+  30 => 'row_list',
+  31 => '_page_info',
+  32 => 'primary_key',
+  33 => '_table',
+  34 => 'js_list',
+  35 => 'css_list',
+  36 => 'validate',
+  37 => '_js_files',
+  38 => '_css_files',
+  39 => '_select_list',
+  40 => '_filter_time',
+  41 => 'empty_tips',
+  42 => '_search_area',
+  43 => '_search_area_url',
+  44 => '_search_area_op',
+  45 => 'builder_height',
+  46 => 'fixed_right_column',
+  47 => 'fixed_left_column',
+  48 => 'column_width',
+  49 => 'column_hide',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001844s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.039317s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.000904s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.042644s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000714s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.038048s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.042359s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000647s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.038581s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.001109s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.038667s ]
+[ sql ] [ SQL ] SELECT `menu_auth` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000918s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_menu` [ RunTime:0.046097s ]
+[ sql ] [ SQL ] SELECT `id`,`url_value` FROM `dp_admin_menu` WHERE  `id` = 0 [ RunTime:0.000844s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` LIMIT 10 [ RunTime:0.000859s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` [ RunTime:0.000864s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/ticket/index' LIMIT 1 [ RunTime:0.000919s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000815s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1 ORDER BY `sort`,`id` [ RunTime:0.000842s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/ticket/index' LIMIT 1 [ RunTime:0.000893s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000622s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_message` [ RunTime:0.038816s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `dp_admin_message` WHERE  `status` = 0  AND `uid_receive` = 1 LIMIT 1 [ RunTime:0.000688s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_icon` [ RunTime:0.038857s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_icon` WHERE  `status` = 1 [ RunTime:0.000625s ]
+[ sql ] [ SQL ] SELECT `value` FROM `dp_admin_config` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000447s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002959s ] mysql:host=127.0.0.1;port=3306;dbname=hejia_qiandao;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_ticket` [ RunTime:0.130842s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `cms_ticket` LIMIT 1 [ RunTime:0.000887s ]
+[ sql ] [ SQL ] SELECT * FROM `cms_ticket` ORDER BY `create_time` DESC LIMIT 0,20 [ RunTime:0.051198s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/ticket/index' LIMIT 1 [ RunTime:0.000858s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000645s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_user` [ RunTime:0.041090s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000981s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_attachment` [ RunTime:0.040837s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000944s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000703s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000689s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:32:01+08:00 ] 127.0.0.1 GET /admin.php/signin/bus/index.html
+[ info ] qiandao.com/admin.php/signin/bus/index.html [运行时间：0.776028s][吞吐率：1.29req/s] [内存消耗：3,518.77kb] [文件加载：77]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'signin',
+    1 => 'bus',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'referer' => 'http://qiandao.com/admin.php/signin/ticket/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.133950s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.127725s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\signin\admin\Bus->index[ D:\wwwroot\qiandao.com\application\signin\admin\Bus.php ]
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\public/../application/common/builder/table/layout.html [ array (
+  0 => '_admin_base_layout',
+  1 => 'system_color',
+  2 => '_pop',
+  3 => '_top_menus',
+  4 => '_top_menus_all',
+  5 => '_sidebar_menus',
+  6 => '_location',
+  7 => '_message',
+  8 => '_icons',
+  9 => 'aside',
+  10 => 'page_title',
+  11 => 'page_tips',
+  12 => 'tips_type',
+  13 => 'tab_nav',
+  14 => 'hide_checkbox',
+  15 => 'extra_html',
+  16 => 'extra_js',
+  17 => 'extra_css',
+  18 => 'order_columns',
+  19 => 'filter_columns',
+  20 => 'filter_map',
+  21 => '_field_display',
+  22 => '_filter_content',
+  23 => '_filter',
+  24 => 'top_buttons',
+  25 => 'right_buttons',
+  26 => 'search',
+  27 => 'search_button',
+  28 => 'columns',
+  29 => 'pages',
+  30 => 'row_list',
+  31 => '_page_info',
+  32 => 'primary_key',
+  33 => '_table',
+  34 => 'js_list',
+  35 => 'css_list',
+  36 => 'validate',
+  37 => '_js_files',
+  38 => '_css_files',
+  39 => '_select_list',
+  40 => '_filter_time',
+  41 => 'empty_tips',
+  42 => '_search_area',
+  43 => '_search_area_url',
+  44 => '_search_area_op',
+  45 => 'builder_height',
+  46 => 'fixed_right_column',
+  47 => 'fixed_left_column',
+  48 => 'column_width',
+  49 => 'column_hide',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002955s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.065282s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.001000s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.039422s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000687s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.037847s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000697s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.038535s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000786s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.041687s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000731s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.038077s ]
+[ sql ] [ SQL ] SELECT `menu_auth` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000655s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_menu` [ RunTime:0.039333s ]
+[ sql ] [ SQL ] SELECT `id`,`url_value` FROM `dp_admin_menu` WHERE  `id` = 0 [ RunTime:0.000657s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` LIMIT 10 [ RunTime:0.000928s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` [ RunTime:0.000853s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/bus/index' LIMIT 1 [ RunTime:0.000903s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000822s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1 ORDER BY `sort`,`id` [ RunTime:0.001144s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/bus/index' LIMIT 1 [ RunTime:0.001030s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000792s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_message` [ RunTime:0.038793s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `dp_admin_message` WHERE  `status` = 0  AND `uid_receive` = 1 LIMIT 1 [ RunTime:0.001114s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_icon` [ RunTime:0.038185s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_icon` WHERE  `status` = 1 [ RunTime:0.000713s ]
+[ sql ] [ SQL ] SELECT `value` FROM `dp_admin_config` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000729s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007174s ] mysql:host=127.0.0.1;port=3306;dbname=hejia_qiandao;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_bus` [ RunTime:0.054197s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `cms_bus` LIMIT 1 [ RunTime:0.000678s ]
+[ sql ] [ SQL ] SELECT * FROM `cms_bus` ORDER BY `create_time` DESC LIMIT 0,20 [ RunTime:0.010297s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_bustype` [ RunTime:0.039687s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `cms_bustype` WHERE  `id` IN (40,25,27,39,41,30,38,34) [ RunTime:0.012016s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/bus/index' LIMIT 1 [ RunTime:0.001111s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.001025s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_user` [ RunTime:0.042647s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000775s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_attachment` [ RunTime:0.041092s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.001029s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001016s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000927s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:32:04+08:00 ] 127.0.0.1 GET /admin.php/signin/cashback/index.html
+[ info ] qiandao.com/admin.php/signin/cashback/index.html [运行时间：0.906448s][吞吐率：1.10req/s] [内存消耗：3,565.89kb] [文件加载：77]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'signin',
+    1 => 'cashback',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'referer' => 'http://qiandao.com/admin.php/signin/bus/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.105177s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.124164s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\signin\admin\Cashback->index[ D:\wwwroot\qiandao.com\application\signin\admin\Cashback.php ]
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\public/../application/common/builder/table/layout.html [ array (
+  0 => '_admin_base_layout',
+  1 => 'system_color',
+  2 => '_pop',
+  3 => '_top_menus',
+  4 => '_top_menus_all',
+  5 => '_sidebar_menus',
+  6 => '_location',
+  7 => '_message',
+  8 => '_icons',
+  9 => 'aside',
+  10 => 'page_title',
+  11 => 'page_tips',
+  12 => 'tips_type',
+  13 => 'tab_nav',
+  14 => 'hide_checkbox',
+  15 => 'extra_html',
+  16 => 'extra_js',
+  17 => 'extra_css',
+  18 => 'order_columns',
+  19 => 'filter_columns',
+  20 => 'filter_map',
+  21 => '_field_display',
+  22 => '_filter_content',
+  23 => '_filter',
+  24 => 'top_buttons',
+  25 => 'right_buttons',
+  26 => 'search',
+  27 => 'search_button',
+  28 => 'columns',
+  29 => 'pages',
+  30 => 'row_list',
+  31 => '_page_info',
+  32 => 'primary_key',
+  33 => '_table',
+  34 => 'js_list',
+  35 => 'css_list',
+  36 => 'validate',
+  37 => '_js_files',
+  38 => '_css_files',
+  39 => '_select_list',
+  40 => '_filter_time',
+  41 => 'empty_tips',
+  42 => '_search_area',
+  43 => '_search_area_url',
+  44 => '_search_area_op',
+  45 => 'builder_height',
+  46 => 'fixed_right_column',
+  47 => 'fixed_left_column',
+  48 => 'column_width',
+  49 => 'column_hide',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001806s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.038060s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.000761s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.038769s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.001323s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.037647s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000765s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.038661s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.001030s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.036738s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.037545s ]
+[ sql ] [ SQL ] SELECT `menu_auth` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000636s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_menu` [ RunTime:0.040721s ]
+[ sql ] [ SQL ] SELECT `id`,`url_value` FROM `dp_admin_menu` WHERE  `id` = 0 [ RunTime:0.000860s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` LIMIT 10 [ RunTime:0.001293s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` [ RunTime:0.000991s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/cashback/index' LIMIT 1 [ RunTime:0.001298s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.001049s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1 ORDER BY `sort`,`id` [ RunTime:0.001135s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/cashback/index' LIMIT 1 [ RunTime:0.000936s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000779s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_message` [ RunTime:0.037416s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `dp_admin_message` WHERE  `status` = 0  AND `uid_receive` = 1 LIMIT 1 [ RunTime:0.000798s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_icon` [ RunTime:0.037338s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_icon` WHERE  `status` = 1 [ RunTime:0.000772s ]
+[ sql ] [ SQL ] SELECT `value` FROM `dp_admin_config` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000591s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007053s ] mysql:host=127.0.0.1;port=3306;dbname=hejia_qiandao;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_order` [ RunTime:0.049716s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `cms_order` WHERE  (  mobile <> '' ) LIMIT 1 [ RunTime:0.046095s ]
+[ sql ] [ SQL ] SELECT * FROM `cms_order` WHERE  (  mobile <> '' ) ORDER BY `create_time` DESC LIMIT 0,20 [ RunTime:0.005521s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_bus` [ RunTime:0.059478s ]
+[ sql ] [ SQL ] SELECT `id`,`busname` FROM `cms_bus` WHERE  `id` IN (468,464,400,466) [ RunTime:0.001060s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_admin` [ RunTime:0.082646s ]
+[ sql ] [ SQL ] SELECT `id`,`username` FROM `cms_admin` WHERE  `id` IN (27,26,25,28) [ RunTime:0.001566s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_user` [ RunTime:0.034566s ]
+[ sql ] [ SQL ] SELECT `mobile`,`username` FROM `cms_user` WHERE  `mobile` IN ('18699118727','18299441913','18999417878','18799186268','13619919004','13199878265','18899196025','15099519339','18167973317','13899872076','18509976562','13899951221','13325606166','15276764663','17718542665','13565356666','15276559973','15099550118','18997549606','18699169520') [ RunTime:0.007462s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/cashback/index' LIMIT 1 [ RunTime:0.000865s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000591s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_user` [ RunTime:0.036402s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000733s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_attachment` [ RunTime:0.036105s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.001262s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000834s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000664s ]
+---------------------------------------------------------------
+[ 2018-09-16T02:32:07+08:00 ] 127.0.0.1 GET /admin.php/signin/order/index.html
+[ info ] qiandao.com/admin.php/signin/order/index.html [运行时间：0.807153s][吞吐率：1.24req/s] [内存消耗：3,566.44kb] [文件加载：77]
+[ info ] [ LANG ] D:\wwwroot\qiandao.com\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'signin',
+    1 => 'order',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'cookie' => 'PHPSESSID=sgtpep238a7cgatdjekco8u9p4',
+  'referer' => 'http://qiandao.com/admin.php/signin/cashback/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'qiandao.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Config @app_begin [ RunTime:0.106735s ]
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Hook @app_begin [ RunTime:0.126476s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'dolphin_admin_',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\signin\admin\Order->index[ D:\wwwroot\qiandao.com\application\signin\admin\Order.php ]
+[ info ] [ VIEW ] D:\wwwroot\qiandao.com\public/../application/common/builder/table/layout.html [ array (
+  0 => '_admin_base_layout',
+  1 => 'system_color',
+  2 => '_pop',
+  3 => '_top_menus',
+  4 => '_top_menus_all',
+  5 => '_sidebar_menus',
+  6 => '_location',
+  7 => '_message',
+  8 => '_icons',
+  9 => 'aside',
+  10 => 'page_title',
+  11 => 'page_tips',
+  12 => 'tips_type',
+  13 => 'tab_nav',
+  14 => 'hide_checkbox',
+  15 => 'extra_html',
+  16 => 'extra_js',
+  17 => 'extra_css',
+  18 => 'order_columns',
+  19 => 'filter_columns',
+  20 => 'filter_map',
+  21 => '_field_display',
+  22 => '_filter_content',
+  23 => '_filter',
+  24 => 'top_buttons',
+  25 => 'right_buttons',
+  26 => 'search',
+  27 => 'search_button',
+  28 => 'columns',
+  29 => 'pages',
+  30 => 'row_list',
+  31 => '_page_info',
+  32 => 'primary_key',
+  33 => '_table',
+  34 => 'js_list',
+  35 => 'css_list',
+  36 => 'validate',
+  37 => '_js_files',
+  38 => '_css_files',
+  39 => '_select_list',
+  40 => '_filter_time',
+  41 => 'empty_tips',
+  42 => '_search_area',
+  43 => '_search_area_url',
+  44 => '_search_area_op',
+  45 => 'builder_height',
+  46 => 'fixed_right_column',
+  47 => 'fixed_left_column',
+  48 => 'column_width',
+  49 => 'column_hide',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002960s ] mysql:host=127.0.0.1;port=3306;dbname=dophin;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_config` [ RunTime:0.034964s ]
+[ sql ] [ SQL ] SELECT `name`,`value`,`type` FROM `dp_admin_config` [ RunTime:0.001013s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_module` [ RunTime:0.043196s ]
+[ sql ] [ SQL ] SELECT `name`,`config` FROM `dp_admin_module` WHERE  `config` <> '' [ RunTime:0.000789s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook` [ RunTime:0.040230s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_hook` WHERE  `status` = 1 [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_plugin` [ RunTime:0.037106s ]
+[ sql ] [ SQL ] SELECT `name`,`status` FROM `dp_admin_plugin` WHERE  `status` = 1 [ RunTime:0.000808s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_hook_plugin` [ RunTime:0.038326s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_hook_plugin` WHERE  `status` = 1 ORDER BY `hook`,`sort` [ RunTime:0.000778s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_role` [ RunTime:0.037178s ]
+[ sql ] [ SQL ] SELECT `menu_auth` FROM `dp_admin_role` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000686s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_menu` [ RunTime:0.039265s ]
+[ sql ] [ SQL ] SELECT `id`,`url_value` FROM `dp_admin_menu` WHERE  `id` = 0 [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` LIMIT 10 [ RunTime:0.000924s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1  AND `pid` = 0 ORDER BY `sort`,`id` [ RunTime:0.000844s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/order/index' LIMIT 1 [ RunTime:0.000894s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.001228s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`module`,`title`,`url_value`,`url_type`,`url_target`,`icon`,`params` FROM `dp_admin_menu` WHERE  `status` = 1 ORDER BY `sort`,`id` [ RunTime:0.001180s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/order/index' LIMIT 1 [ RunTime:0.000956s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.001086s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_message` [ RunTime:0.050509s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `dp_admin_message` WHERE  `status` = 0  AND `uid_receive` = 1 LIMIT 1 [ RunTime:0.000868s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_icon` [ RunTime:0.039884s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_icon` WHERE  `status` = 1 [ RunTime:0.000681s ]
+[ sql ] [ SQL ] SELECT `value` FROM `dp_admin_config` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000503s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013128s ] mysql:host=127.0.0.1;port=3306;dbname=hejia_qiandao;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_order` [ RunTime:0.038126s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `cms_order` WHERE  (  opuid > 0 ) LIMIT 1 [ RunTime:0.004101s ]
+[ sql ] [ SQL ] SELECT * FROM `cms_order` WHERE  (  opuid > 0 ) ORDER BY `update_time` DESC LIMIT 0,20 [ RunTime:0.005656s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_bus` [ RunTime:0.036301s ]
+[ sql ] [ SQL ] SELECT `id`,`busname` FROM `cms_bus` WHERE  `id` IN (430,469,464,453,418,388,406,452,445,443,462,451,455) [ RunTime:0.001132s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_admin` [ RunTime:0.036473s ]
+[ sql ] [ SQL ] SELECT `id`,`username` FROM `cms_admin` WHERE  `id` IN (23,46,28,26) [ RunTime:0.000998s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cms_user` [ RunTime:0.035458s ]
+[ sql ] [ SQL ] SELECT `mobile`,`username` FROM `cms_user` WHERE  `mobile` IN ('18129491000','18500214876','13199878265','15739545147','18899196025','15099519339','18999968501','15299164645','15099130092','18998919331','18999208866','13999549904','15299172888','13579810897','18699185220','18997908056','18167888220','13579978129') [ RunTime:0.006007s ]
+[ sql ] [ SQL ] SELECT `id` FROM `dp_admin_menu` WHERE  `pid` <> 0  AND `url_value` = 'signin/order/index' LIMIT 1 [ RunTime:0.000833s ]
+[ sql ] [ SQL ] SELECT `id`,`pid`,`title`,`url_value` FROM `dp_admin_menu` [ RunTime:0.000591s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_user` [ RunTime:0.035990s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000679s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `dp_admin_attachment` [ RunTime:0.039356s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000887s ]
+[ sql ] [ SQL ] SELECT `avatar` FROM `dp_admin_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `dp_admin_attachment` WHERE  `id` = 0 LIMIT 1 [ RunTime:0.000660s ]
